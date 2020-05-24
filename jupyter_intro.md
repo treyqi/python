@@ -1,11 +1,13 @@
 # A quick introduction to jupyter notebook
 
+Notes from https://www.youtube.com/watch?v=HW29067qVWk. 
+
 You can add `Markdown` and code in the same file.
 
 The default kernel is `python`
 
 Run `bash` commands
-!
+`!`
 
 ## Line magic commands - `%`
 
